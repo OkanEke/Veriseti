@@ -1,0 +1,129 @@
+{
+    "report-time-stamp": "2022-08-23 13:07:34",
+    "general-info-status": {
+        "Nitro_WP_version": "6.0.1",
+        "Nitro_Version": "1.5.12",
+        "Nitro_SDK_Connection": "OK",
+        "Nitro_API_Polling": "Site disabled. Please, contact NP support for details.",
+        "Nitro_SDK_Version": "0.40.0",
+        "Nitro_WP_Cache": "OK for drop-in",
+        "Advanced_Cache_Version": "1.5.12",
+        "Nitro_Absolute_Path": "\/home\/site\/wwwroot\/",
+        "Nitro_Plugin_Direcotry": "\/home\/site\/wwwroot\/wp-content\/plugins\/nitropack\/",
+        "Nitro_Data_Directory": "\/home\/site\/wwwroot\/wp-content\/nitropack",
+        "Nitro_Config_File": "\/home\/site\/wwwroot\/wp-content\/nitropack\/config.json",
+        "Nitro_Backlog_File_Status": "OK",
+        "Nitro_Webhooks": "OK",
+        "Nitro_Connectivity_Requirements": "OK",
+        "Residual_Cache_Found_For": "Not found",
+        "Nitro_Cache_Method": "drop-in"
+    },
+    "active-plugins-status": {
+        "Advanced Custom Fields": "5.12.2",
+        "All-in-One WP Migration With Import": "6.77",
+        "Contact Form 7": "5.6",
+        "Elementor": "3.6.5",
+        "Element Pack Pro": "6.1.2",
+        "NitroPack": "1.5.12",
+        "Plugins Garbage Collector (Database Cleanup) Old!": "0.14",
+        "Radiantthemes Addons": "1.0.1",
+        "RadiantThemes Custom Post Type": "1.0.0",
+        "Slider Revolution": "6.5.24",
+        "SMTP Mailer": "1.1.4",
+        "The Events Calendar": "5.16.1.1"
+    },
+    "conflicting-plugins-status": "None detected",
+    "user-config-status": {
+        "pavo-app.azurewebsites.net": {
+            "siteId": "nYexQUEdrXMPpOIoIWXgxuIJfxuyrGnp",
+            "siteSecret": "8YHIw2CVUmiN0j4atEMadjN7JMlV9MjR7bsLm4fEry3ovigFmNeCsFp1UgodLlHA",
+            "blogId": 1,
+            "compression": false,
+            "webhookToken": "36176f15ebb1ca4e9276ab6d78990d50",
+            "home_url": "https:\/\/pavo-app.azurewebsites.net",
+            "admin_url": "https:\/\/pavo-app.azurewebsites.net\/wp-admin\/",
+            "hosting": "unknown",
+            "alwaysBuffer": true,
+            "isEzoicActive": false,
+            "isApoActive": false,
+            "isLateIntegrationInitRequired": false,
+            "isDlmActive": false,
+            "isWoocommerceCacheHandlerActive": false,
+            "isWoocommerceActive": false,
+            "isAeliaCurrencySwitcherActive": false,
+            "dlm_downloading_url": null,
+            "dlm_download_endpoint": null,
+            "pluginVersion": "1.5.12",
+            "options_cache": {
+                "cache_handler_cache_handler": false,
+                "woocommerce_default_customer_address": false,
+                "wc_aelia_currency_switcher": {
+                    "ipgeolocation_enabled": null
+                }
+            }
+        },
+        "config_path": "d160e045370d1b092a3c072c50e07815",
+        "pavo.com.tr": {
+            "siteId": "nYexQUEdrXMPpOIoIWXgxuIJfxuyrGnp",
+            "siteSecret": "8YHIw2CVUmiN0j4atEMadjN7JMlV9MjR7bsLm4fEry3ovigFmNeCsFp1UgodLlHA",
+            "blogId": 1,
+            "compression": false,
+            "webhookToken": "36176f15ebb1ca4e9276ab6d78990d50",
+            "home_url": "https:\/\/pavo.com.tr",
+            "admin_url": "https:\/\/pavo.com.tr\/wp-admin\/",
+            "hosting": "unknown",
+            "alwaysBuffer": true,
+            "isEzoicActive": false,
+            "isApoActive": false,
+            "isLateIntegrationInitRequired": false,
+            "isDlmActive": false,
+            "isWoocommerceCacheHandlerActive": false,
+            "isWoocommerceActive": false,
+            "isAeliaCurrencySwitcherActive": false,
+            "dlm_downloading_url": null,
+            "dlm_download_endpoint": null,
+            "pluginVersion": "1.5.12",
+            "options_cache": {
+                "cache_handler_cache_handler": false,
+                "woocommerce_default_customer_address": false,
+                "wc_aelia_currency_switcher": {
+                    "ipgeolocation_enabled": null
+                }
+            }
+        },
+        "www.pavo.com.tr": {
+            "siteId": "nYexQUEdrXMPpOIoIWXgxuIJfxuyrGnp",
+            "siteSecret": "8YHIw2CVUmiN0j4atEMadjN7JMlV9MjR7bsLm4fEry3ovigFmNeCsFp1UgodLlHA",
+            "blogId": 1,
+            "compression": false,
+            "webhookToken": "36176f15ebb1ca4e9276ab6d78990d50",
+            "home_url": "https:\/\/www.pavo.com.tr",
+            "admin_url": "https:\/\/www.pavo.com.tr\/wp-admin\/",
+            "hosting": "unknown",
+            "alwaysBuffer": true,
+            "isEzoicActive": false,
+            "isApoActive": false,
+            "isLateIntegrationInitRequired": false,
+            "isDlmActive": false,
+            "isWoocommerceCacheHandlerActive": false,
+            "isWoocommerceActive": false,
+            "isAeliaCurrencySwitcherActive": false,
+            "dlm_downloading_url": null,
+            "dlm_download_endpoint": null,
+            "pluginVersion": "1.5.12",
+            "options_cache": {
+                "cache_handler_cache_handler": false,
+                "woocommerce_default_customer_address": false,
+                "wc_aelia_currency_switcher": {
+                    "ipgeolocation_enabled": null
+                }
+            }
+        }
+    },
+    "dir-info-status": {
+        "WP_Content_Dir_Writable": true,
+        "Nitro_Data_Dir_Writable": true,
+        "Nitro_siteID_Dir_Writable": true,
+        "Nitro_Plugin_Dir_Writable": true
+    }
+}
